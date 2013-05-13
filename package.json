@@ -1,6 +1,6 @@
 {
   "name": "fleet-get-ps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get the running fleet processes as an object ",
   "main": "index.js",
   "scripts": {
